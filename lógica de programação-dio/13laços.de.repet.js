@@ -32,4 +32,4 @@ do{
     contador++}
 
 while (contador < 3)  //depois verifica!
-
+console.log("*********************************")
