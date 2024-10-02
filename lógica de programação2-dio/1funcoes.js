@@ -1,11 +1,11 @@
 torrar ()
 
 function torrar (){
-    console.log("Torrando pão.")
+    console.log("Torrando pão...")
     injetarPao ()
 }
 
 function injetarPao (){
-    console.log("Preparando para ejetar pão.")
+    console.log("Preparando para ejetar pão...")
     console.log("Finalizado.")
 }
